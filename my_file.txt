@@ -1,0 +1,6 @@
+Hello, this is the first line.
+Here is the number 12345.
+Third line with some random text.
+Appending a fourth line.
+Another line with number 67890.
+This is the final line in the file.
